@@ -1,5 +1,11 @@
-# vsd_workshop
-Introduction to OpenLANE
+# vsd_workshop - Advanced Physical design
+Introduction to OpenLANE - Sky130nm PDK
+
+#Day 1
+Package(QFN-48) --> Chip (Die, Core, Pads)
+PLL, SRAM, ADC, DAC - Foundry IP's
+RISCV SoC, SPI - Macros
+For Digital ASIC opensource design --> RTL design, EDA tools, PDK are the required components.
 
 ![1](https://github.com/jenila19/vsd_workshop/assets/135401281/e8d98223-3baa-4e0d-b5ec-84a3230ddca3)
 Docker
@@ -14,6 +20,9 @@ Design Preparation
 
 ![4](https://github.com/jenila19/vsd_workshop/assets/135401281/7f4a01d8-a636-4e07-8417-5e75d85fbb50)
 
+#Day -2 
+
+
 #run_floorplan
 PDN generation was successful
 
@@ -26,8 +35,6 @@ picorv32a.floorplan def file
 ![8](https://github.com/jenila19/vsd_workshop/assets/135401281/d77d1fd5-d63e-452b-8607-c289c36aa37d)
 
 #run_placement
-
-![WhatsApp Image 2023-06-04 at 6 48 43 PM (2)](https://github.com/jenila19/vsd_workshop/assets/135401281/7df78c2e-c10d-426f-8320-594d4e28f6a6)
 
 picorv32a.placement def file
 
