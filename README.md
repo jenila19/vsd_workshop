@@ -3,9 +3,9 @@ Introduction to OpenLANE - Sky130nm PDK
   The main goal is to produce a clean GDSII without human intervention.
 # Day 1
 # Package(QFN-48) --> Chip (Die, Core, Pads)
-PLL, SRAM, ADC, DAC - Foundry IP's
-RISCV SoC, SPI - Macros
-For Digital ASIC opensource design --> RTL design, EDA tools, PDK are the required components.
+<p> PLL, SRAM, ADC, DAC - Foundry IP's
+<br> RISCV SoC, SPI - Macros
+<br> For Digital ASIC opensource design --> RTL design, EDA tools, PDK are the required components.
 
 ![1](https://github.com/jenila19/vsd_workshop/assets/135401281/e8d98223-3baa-4e0d-b5ec-84a3230ddca3)
 # Docker
