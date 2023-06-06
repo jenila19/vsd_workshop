@@ -57,4 +57,8 @@ Parameters - Utilization factor and Aspect ratio
 ![WhatsApp Image 2023-06-04 at 6 48 41 PM (1)](https://github.com/jenila19/vsd_workshop/assets/135401281/6fb558c2-d474-497b-a16b-ef06227b23a4)
 ![WhatsApp Image 2023-06-04 at 6 48 41 PM](https://github.com/jenila19/vsd_workshop/assets/135401281/392c25bf-5fd6-4d25-92f5-447c63aa1dae)
 
+## grid 0.46um 0.34um 0.23um 0.17um
+
+![WhatsApp Image 2023-06-06 at 8 09 06 PM](https://github.com/jenila19/vsd_workshop/assets/135401281/b3717094-6fd1-4456-bb35-73d376e0cf1b)
+
 
