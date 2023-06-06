@@ -74,7 +74,10 @@ $ grid 0.46um 0.34um 0.23um 0.17um
 
 ![WhatsApp Image 2023-06-06 at 8 09 06 PM](https://github.com/jenila19/vsd_workshop/assets/135401281/b3717094-6fd1-4456-bb35-73d376e0cf1b)
 ![WhatsApp Image 2023-06-06 at 8 09 05 PM (2)](https://github.com/jenila19/vsd_workshop/assets/135401281/6b476ef8-91f5-4df7-b937-8c27443fb2c5)
- 
+
+  # STA
+  ![11](https://github.com/jenila19/vsd_workshop/assets/135401281/44cc4e83-7f5a-4855-b231-c8ac29086d1d)
+
 # Clock Tree Synthesis (CTS)
 $ run_cts
 ![WhatsApp Image 2023-06-06 at 7 24 37 PM (2)](https://github.com/jenila19/vsd_workshop/assets/135401281/7ced24d0-726e-4c46-9398-d13ad51cb1cc)
@@ -83,6 +86,8 @@ $ run_cts
 # Routing
 $ run_routing
 ![WhatsApp Image 2023-06-06 at 7 24 37 PM](https://github.com/jenila19/vsd_workshop/assets/135401281/78ca1dda-e308-49a5-942b-4de3f58ae747)
+![111](https://github.com/jenila19/vsd_workshop/assets/135401281/8f789fd2-3489-4de1-9b55-9366df80c8a8)
+![222](https://github.com/jenila19/vsd_workshop/assets/135401281/f7ec15e6-2941-4a6c-8f13-411a02de7af3)
 
 
 
