@@ -86,8 +86,9 @@ $ run_cts
 # Routing
 $ run_routing
 ![WhatsApp Image 2023-06-06 at 7 24 37 PM](https://github.com/jenila19/vsd_workshop/assets/135401281/78ca1dda-e308-49a5-942b-4de3f58ae747)
-![111](https://github.com/jenila19/vsd_workshop/assets/135401281/8f789fd2-3489-4de1-9b55-9366df80c8a8)
-![222](https://github.com/jenila19/vsd_workshop/assets/135401281/f7ec15e6-2941-4a6c-8f13-411a02de7af3)
+![222](https://github.com/jenila19/vsd_workshop/assets/135401281/f84d3915-8bc9-42a9-9932-f3b298d3c0cc)
+
+
 
 
 
